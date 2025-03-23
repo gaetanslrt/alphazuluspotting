@@ -4,7 +4,7 @@ function showGallery(category) {
     const photoGrid = document.getElementById('photo-grid');
     const url = window.location.href;
 
-    if (url.includes('index.html')) {
+    if (url == "https://alphazuluspotting.pages.dev/") {
         const footer = document.getElementById('footer')
         const hero = document.getElementById('hero');
         const categories = document.getElementById('categories');
@@ -580,7 +580,7 @@ function showGallery(category) {
 
     gallery.style.display = 'block';
 
-    if (!url.includes('index.html')) {
+    if (url != "https://alphazuluspotting.pages.dev/") {
         document.querySelector('.subcategories').style.display = 'none';
     }
     
