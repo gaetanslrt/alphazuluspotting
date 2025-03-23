@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logo.png" type="image/x-icon">
+    <title>Military Aviation - AlphaZuluSpotting</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="subcategories" id="subsquares">
+        <a href="index.html" class="back-link">Back to Home</a>
+        <div class="subcategory-grid">
+            <a onclick="showGallery('gd')" class="subcategory" style="background-image: url('./photos/gd-section.JPG')">
+                <span>Gendarmerie Nationale</span>
+            </a>
+            <a onclick="showGallery('terre')" class="subcategory" style="background-image: url('./photos/ATerre/terre-section.JPG')">
+                <span>Armée de Terre</span>
+            </a>
+            <a href="military-marine.html" class="subcategory" style="background-image: url('./photos/marine/marine-h\ \(17\).JPG')">
+                <span>Marine Nationale</span>
+            </a>
+            <a href="military-air.html" class="subcategory" style="background-image: url('./photos/AAE/aae-section.JPG')">
+                <span>Armée de l'Air & de l'Espace</span>
+            </a>
+        </div>
+        
+    </section>
+
+    <section class="gallery" id="gallery">
+        <a href="military.html"  class="back-link" id="back-compagnies">Back to Military</a>
+        <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <div class="fullscreen" id="fullscreen" onclick="closeFullscreen()">
+        <span class="close-btn" onclick="closeFullscreen()">×</span>
+        <img id="fullscreen-img" src="">
+        <p id="fullscreen-desc"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

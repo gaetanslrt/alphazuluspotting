@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logo.png" type="image/x-icon">
+    <title>Home - AlphaZuluSpotting</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    
+    <section class="hero" id="hero">
+        <div class="hero-content">
+            <h1>AlphaZuluSpotting Pictures</h1>
+            <p>Focused on the Sky</p>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="categories" id="categories">
+        <div class="category-grid">
+            <a href="civil.html" class="category" style="background-image: url('./photos/air_france/air_france\ \(20\).JPG')">
+                <span>Civil</span>
+            </a>
+            <a href="military.html" class="category" style="background-image: url('./photos/military-section.JPG')">
+                <span>Military</span>
+            </a>
+            <a onclick="showGallery('other')" class="category" style="background-image: url('./photos/others/others\ \(19\).JPG')">
+                <span>Other</span>
+            </a>
+            <a href="hall-of-fame.html" class="category" style="background-image: url('./photos/hall-of-fame/aa-old.JPG')">
+                <span>Hall of Fame</span>
+            </a>
+        </div>
+    </section>
+
+    <section class="gallery" id="gallery">
+        <a href="index.html" class="back-link" id="back-compagnies">Back to Home</a>
+        <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <div class="fullscreen" id="fullscreen" onclick="closeFullscreen()">
+        <span class="close-btn" onclick="closeFullscreen()">×</span>
+        <img id="fullscreen-img" src="">
+        <p id="fullscreen-desc"></p>
+    </div>
+
+    <footer id="footer">
+        <p>2025 AlphaZuluSpotting.</p>
+        <p>Camera Model: <span  style="font-style: italic;">Kodak AZ528</span></p>
+        <p>All images here are photographs. None have been retouched or edited.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
