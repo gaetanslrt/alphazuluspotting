@@ -579,7 +579,11 @@ function showGallery(category) {
     });
 
     gallery.style.display = 'block';
-    document.querySelector('.subcategories').style.display = 'none';
+
+    if (!url.includes('index.html')) {
+        document.querySelector('.subcategories').style.display = 'none';
+    }
+    
 }
 
 function showFullscreen(src, desc) {
