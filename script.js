@@ -25,31 +25,31 @@ function showGallery(category) {
         'civil-commercial-airalgerie': [
             {src: './photos/air_algerie/air_algerie (1).JPG', desc: 'Air Algérie Boeing 737'},
             {src: './photos/air_algerie/air_algerie (2).JPG', desc: 'Air Algérie Boeing 737'},
-            {src: './photos/air_algerie/air_algerie (3).JPG', desc: 'Air Algérie A330'},
-            {src: './photos/air_algerie/air_algerie (4).JPG', desc: 'Air Algérie A330'},
-            {src: './photos/air_algerie/air_algerie (5).JPG', desc: 'Air Algérie A330'},
-            {src: './photos/air_algerie/air_algerie (6).JPG', desc: 'Air Algérie A330'},
-            {src: './photos/air_algerie/air_algerie (7).JPG', desc: 'Air Algérie A330'}
+            {src: './photos/air_algerie/air_algerie (3).JPG', desc: 'Air Algérie Airbus A330'},
+            {src: './photos/air_algerie/air_algerie (4).JPG', desc: 'Air Algérie Airbus A330'},
+            {src: './photos/air_algerie/air_algerie (5).JPG', desc: 'Air Algérie Airbus A330'},
+            {src: './photos/air_algerie/air_algerie (6).JPG', desc: 'Air Algérie Airbus A330'},
+            {src: './photos/air_algerie/air_algerie (7).JPG', desc: 'Air Algérie Airbus A330'}
         ],
         'civil-commercial-aircaraibes': [
-            {src: './photos/air_caraibes/air_caraibes (1).JPG', desc: 'Air Caraïbes A350'},
-            {src: './photos/air_caraibes/air_caraibes (2).JPG', desc: 'Air Caraïbes A350'},
-            {src: './photos/air_caraibes/air_caraibes (3).JPG', desc: 'Air Caraïbes A350'},
-            {src: './photos/air_caraibes/air_caraibes (4).JPG', desc: 'Air Caraïbes A350'},
-            {src: './photos/air_caraibes/air_caraibes (5).JPG', desc: 'Air Caraïbes A350'},
-            {src: './photos/air_caraibes/air_caraibes (6).JPG', desc: 'Air Caraïbes A350 '}
+            {src: './photos/air_caraibes/air_caraibes (1).JPG', desc: 'Air Caraïbes Airbus A350'},
+            {src: './photos/air_caraibes/air_caraibes (2).JPG', desc: 'Air Caraïbes Airbus A350'},
+            {src: './photos/air_caraibes/air_caraibes (3).JPG', desc: 'Air Caraïbes Airbus A350'},
+            {src: './photos/air_caraibes/air_caraibes (4).JPG', desc: 'Air Caraïbes Airbus A350'},
+            {src: './photos/air_caraibes/air_caraibes (5).JPG', desc: 'Air Caraïbes Airbus A350'},
+            {src: './photos/air_caraibes/air_caraibes (6).JPG', desc: 'Air Caraïbes Airbus A350 '}
         ],
         'civil-commercial-aircorsica': [
-            {src: './photos/air_corsica/air_corsica (1).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (2).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (3).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (4).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (5).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (6).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (7).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (8).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (9).JPG', desc: 'Air Corsica A320 Neo'},
-            {src: './photos/air_corsica/air_corsica (10).JPG', desc: 'Air Corsica A320 Neo'}
+            {src: './photos/air_corsica/air_corsica (1).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (2).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (3).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (4).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (5).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (6).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (7).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (8).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (9).JPG', desc: 'Air Corsica Airbus A320 Neo'},
+            {src: './photos/air_corsica/air_corsica (10).JPG', desc: 'Air Corsica Airbus A320 Neo'}
         ],
         'civil-commercial-aireuropa': [
             {src: './photos/air_europa/air_europa (1).JPG', desc: 'Air Europa Boeing 737'},
