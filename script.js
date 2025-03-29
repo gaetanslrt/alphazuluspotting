@@ -1,3 +1,4 @@
+//gallery & fullscreen script
 function showGallery(category) {
     const backbtn = document.getElementById('back-compagnies');
     const gallery = document.getElementById('gallery');
