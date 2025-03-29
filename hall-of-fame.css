@@ -58,7 +58,7 @@ body {
 
 .container img {
     border-style: ridge;
-    border-width: 5px;
+    border-width: 3px;
     border-color: gold;
     border-radius: 7px;
     max-width: 60%;
