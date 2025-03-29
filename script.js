@@ -111,9 +111,9 @@ function showGallery(category) {
             {src: './photos/easy_jet/easy_jet (10).JPG', desc: 'EasyJet Airbus A319'},
             {src: './photos/easy_jet/easy_jet (11).JPG', desc: 'EasyJet Airbus A319'},
             {src: './photos/easy_jet/easy_jet (12).JPG', desc: 'EasyJet Airbus A319'},
-            {src: './photos/easy_jet/easy_jet (13).JPG', desc: 'EasyJet Airbus A320'},
-            {src: './photos/easy_jet/easy_jet (14).JPG', desc: 'EasyJet Airbus A320'},
-            {src: './photos/easy_jet/easy_jet (15).JPG', desc: 'EasyJet Airbus A320'},
+            {src: './photos/easy_jet/easy_jet (13).JPG', desc: 'EasyJet Airbus A320 Neo'},
+            {src: './photos/easy_jet/easy_jet (14).JPG', desc: 'EasyJet Airbus A320 Neo'},
+            {src: './photos/easy_jet/easy_jet (15).JPG', desc: 'EasyJet Airbus A320 Neo'},
             {src: './photos/easy_jet/easy_jet (16).JPG', desc: 'EasyJet Airbus A320'}
         ],
         'civil-commercial-emirates': [
