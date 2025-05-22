@@ -212,9 +212,9 @@ body {
 .close-btn {
     position: absolute;
     top: 20px;
-    right: 20px;
+    right: 35px;
     color: white;
-    font-size: 2rem;
+    font-size: 2.5rem;
     cursor: pointer;
 }
 
