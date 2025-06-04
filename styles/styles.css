@@ -14,6 +14,11 @@ body {
     line-height: 1.6;
 }
 
+#author {
+    font-size: 1.1rem;
+    color: #adadad;
+}
+
 /* Hero Section */
 .hero {
     height: 100vh;
