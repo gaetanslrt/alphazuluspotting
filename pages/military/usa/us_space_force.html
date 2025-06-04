@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../../../logo.png" type="image/x-icon">
+    <title>U.S. Space Force - AlphaZuluSpotting</title>
+    <link rel="stylesheet" href="../../../styles/styles.css">
+</head>
+<body>
+    <section class="subcategories">
+        <a href="us_military.html" class="back-link">Back to United States of America</a>
+        <div class="subcategory-grid">
+            <a href="#" onclick="showGallery('')" class="subcategory" style="background-image: url('')">
+                <span>Planes</span>
+            </a>
+            <a href="#" onclick="showGallery('')" class="subcategory" style="background-image: url('')">
+                <span>Helicopters</span>
+            </a>
+        </div>
+        
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery" id="gallery">
+        <a href="us_space_force.html" class="back-link" id="back-compagnies">Back to U.S. Space Force</a>
+        <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <!-- Fullscreen View -->
+    <div class="fullscreen" id="fullscreen" onclick="closeFullscreen()">
+        <span class="close-btn" onclick="closeFullscreen()">×</span>
+        <img id="fullscreen-img" src="">
+        <p id="fullscreen-desc"></p>
+    </div>
+
+    <script src="../../../scripts/script.js"></script>
+</body>
+</html>

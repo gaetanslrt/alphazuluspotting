@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../../../logo.png" type="image/x-icon">
+    <title>French Air & Space Force - AlphaZuluSpotting</title>
+    <link rel="stylesheet" href="../../../styles/styles.css">
+</head>
+<body>
+    <section class="subcategories">
+        <a href="french_military.html" class="back-link">Back to France</a>
+        <div class="subcategory-grid">
+            <a href="#" onclick="showGallery('aae-planes')" class="subcategory" style="background-image: url('../../../photos/military/france/french_air_space_force/aae-p\ \(138\).JPG')">
+                <span>Planes</span>
+            </a>
+            <a href="#" onclick="showGallery('aae-helico')" class="subcategory" style="background-image: url('../../../photos/military/france/french_air_space_force/aae-h\ \(16\).JPG')">
+                <span>Helicopters</span>
+            </a>
+        </div>
+        
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery" id="gallery">
+        <a href="air.html" class="back-link" id="back-compagnies">Back to French Air & Space Force</a>
+        <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <!-- Fullscreen View -->
+    <div class="fullscreen" id="fullscreen" onclick="closeFullscreen()">
+        <span class="close-btn" onclick="closeFullscreen()">×</span>
+        <img id="fullscreen-img" src="">
+        <p id="fullscreen-desc"></p>
+    </div>
+
+    <script src="../../../scripts/script.js"></script>
+</body>
+</html>

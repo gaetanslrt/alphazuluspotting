@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../../logo.png" type="image/x-icon">
+    <title>General Aviation - AlphaZuluSpotting</title>
+    <link rel="stylesheet" href="../../styles/styles.css">
+</head>
+<body>
+    <section class="subcategories">
+        <a href="civil.html" class="back-link">Back to Civil</a>
+        <div class="subcategory-grid">
+            <a href="#" onclick="showGallery('general-planes')" class="subcategory" style="background-image: url('../../photos/civil/general/general-p\ \(9\).JPG')">
+                <span>Planes</span>
+            </a>
+            <a href="#" onclick="showGallery('general-helico')" class="subcategory" style="background-image: url('../../photos/civil/general/general-h.JPG')">
+                <span>Helicopters</span>
+            </a>
+        </div>
+        
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery" id="gallery">
+        <a href="general.html" class="back-link" id="back-compagnies">Back to General</a>
+        <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <!-- Fullscreen View -->
+    <div class="fullscreen" id="fullscreen" onclick="closeFullscreen()">
+        <span class="close-btn" onclick="closeFullscreen()">×</span>
+        <img id="fullscreen-img" src="">
+        <p id="fullscreen-desc"></p>
+    </div>
+
+    <script src="../../scripts/script.js"></script>
+</body>
+</html>
