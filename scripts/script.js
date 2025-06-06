@@ -548,7 +548,15 @@ function showGallery(category) {
     selectedPhotos.forEach(photo => {
         const div = document.createElement('div');
         div.className = 'photo-item';
-        div.style.backgroundImage = `url('${photo.src}')`;
+        // Remplacer background-image par une balise <img>
+        const img = document.createElement('img');
+        img.src = photo.src;
+        img.alt = photo.desc;
+        img.loading = 'lazy'; // Activer le lazy loading
+        img.style.width = '100%';
+        img.style.height = '100%';
+        img.style.objectFit = 'cover'; // Simuler l'effet de background-size: cover
+        div.appendChild(img);
         div.onclick = () => showFullscreen(photo.src, photo.desc);
         photoGrid.appendChild(div);
     });

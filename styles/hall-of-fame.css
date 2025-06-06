@@ -48,10 +48,6 @@ body {
     font-size: 1.5rem;
 }
 
-img {
-    image-resolution: 20dpi;
-}
-
 .container {
     padding: 40px;
     display: flex;
@@ -114,7 +110,6 @@ img {
 .fullscreen img {
     max-width: 80%;
     max-height: 70%;
-    image-resolution: from-image;
 }
 
 .fullscreen p {
