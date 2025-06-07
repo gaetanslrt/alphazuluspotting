@@ -250,7 +250,7 @@ footer p {
 
 @media (max-width: 500px) {
     .hero {
-        background: url('../photos/civil/airlines/corsair/corsair\ \(5\).JPG');
+        background: url('../main-bg.png');
         background-repeat: no-repeat;
         background-size: cover;
     }
