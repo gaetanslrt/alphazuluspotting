@@ -253,6 +253,7 @@ footer p {
         background: url('../main-bg.png');
         background-repeat: no-repeat;
         background-size: cover;
+        background-position: center;
     }
     .hero h1 {
         font-size: 2rem;
