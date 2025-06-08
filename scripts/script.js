@@ -256,7 +256,7 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/aerolineas_argentinas/aerolineas-argentinas (6).JPG', desc: 'Aerolineas Argentinas Airbus A330'}
         ],
         'civil-commercial-aeromexico': [
-            {src: '../../photos/civil/airlines/aeromexico/aeromexico (1).JPG', desc: 'Aeromexico Boeing 737'}
+            {src: '../../photos/civil/airlines/aeromexico/aeromexico.JPG', desc: 'Aeromexico Boeing 737'}
         ],
         'civil-commercial-aircanada': [
             {src: '../../photos/civil/airlines/air_canada/air_canada (1).JPG', desc: 'Air Canada Boeing 787'},

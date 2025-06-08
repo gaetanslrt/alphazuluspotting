@@ -185,7 +185,8 @@ body {
 }
 
 .photo-item img {
-    image-resolution: 10dpi;    
+    image-resolution: 10dpi;
+    filter: blur(0.6px);    
     display: block;
     width: 100%;
     height: 100%;
