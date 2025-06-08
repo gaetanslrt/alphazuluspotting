@@ -253,7 +253,6 @@ footer p {
 
 @media (max-width: 500px) {
     .hero {
-        background: url('../main-bg.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;

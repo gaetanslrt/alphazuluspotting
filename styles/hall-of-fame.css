@@ -129,6 +129,15 @@ body {
 }
 
 @media (max-width: 500px) {
+    .hero {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-position-x: 10%;
+    }
+    .hero h1 {
+        font-size: 2rem;
+    }
     .container img {
         max-width: 100% !important;
     }
