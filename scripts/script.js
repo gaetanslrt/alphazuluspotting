@@ -383,7 +383,7 @@ function showGallery(category) {
             {src: '../../photos/civil/general/general-p (10).JPG', desc: 'Diamond DA42 Twin Star'},
             {src: '../../photos/civil/general/general-p (11).JPG', desc: 'Cessna C172 Skyhawk'},
             {src: '../../photos/civil/general/general-p (12).JPG', desc: 'Pilatus PC-12 NG'},
-            {src: '../../photos/civil/general/general-section.JPG', desc: 'Cessna C206 Stationair'},
+            {src: '../../photos/civil/general/general-p (13).JPG', desc: 'Cessna C206 Stationair'},
         ],
         'general-helico': [
             {src: '../../photos/civil/general/general-h.JPG', desc: 'Robinson R44 Raven II'},
