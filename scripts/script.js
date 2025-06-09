@@ -856,14 +856,14 @@ function showGallery(category) {
             { src: "../../../photos/military/france/french_air_space_force/aae-p (163).JPG", desc: 'Dassault Rafale C (Rafale Solo Display 2025)' },
         ],
         'historical': [
-            {src: './photos/historical/historical (1).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (2).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (3).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (4).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (5).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (6).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (7).JPG', desc: 'WW2 Plane'},
-            {src: './photos/historical/historical (8).JPG', desc: 'WW2 Plane'}
+            {src: './photos/historical/historical (1).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (2).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (3).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (4).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (5).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (6).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (7).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'},
+            {src: './photos/historical/historical (8).JPG', desc: 'Douglas DC-3 + two North American T-6 Texan'}
         ],
     };
 
