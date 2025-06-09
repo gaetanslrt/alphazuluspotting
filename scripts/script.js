@@ -133,14 +133,34 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/emirates/emirates (1).JPG', desc: 'Emirates Airbus A380'},
             {src: '../../photos/civil/airlines/emirates/emirates (2).JPG', desc: 'Emirates Airbus A380'},
             {src: '../../photos/civil/airlines/emirates/emirates (3).JPG', desc: 'Emirates Airbus A380'},
-            {src: '../../photos/civil/airlines/emirates/emirates.JPG', desc: 'Emirates Boeing 777'}
+            {src: '../../photos/civil/airlines/emirates/emirates.JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (4).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (5).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (6).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (7).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (8).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (9).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (10).JPG', desc: 'Emirates Boeing 777'},
+            {src: '../../photos/civil/airlines/emirates/emirates (11).JPG', desc: 'Emirates Boeing 777'}
         ],
         'civil-commercial-frenchbee': [
             {src: '../../photos/civil/airlines/french_bee/french_bee (1).JPG', desc: 'French Bee Airbus A350'},
             {src: '../../photos/civil/airlines/french_bee/french_bee (2).JPG', desc: 'French Bee Airbus A350'},
             {src: '../../photos/civil/airlines/french_bee/french_bee (3).JPG', desc: 'French Bee Airbus A350'},
             {src: '../../photos/civil/airlines/french_bee/french_bee (4).JPG', desc: 'French Bee Airbus A350'},
-            {src: '../../photos/civil/airlines/french_bee/french_bee (5).JPG', desc: 'French Bee Airbus A350'}
+            {src: '../../photos/civil/airlines/french_bee/french_bee (5).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (6).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (7).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (8).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (9).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (10).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (11).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (12).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (13).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (14).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (15).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (16).JPG', desc: 'French Bee Airbus A350'},
+            {src: '../../photos/civil/airlines/french_bee/french_bee (17).JPG', desc: 'French Bee Airbus A350'}
         ],
         'civil-commercial-iberia': [
             {src: '../../photos/civil/airlines/iberia/iberia (1).JPG', desc: 'Iberia Airbus A320'},
@@ -183,7 +203,12 @@ function showGallery(category) {
         'civil-commercial-tap': [
             {src: '../../photos/civil/airlines/tap/tap (1).JPG', desc: 'TAP Airbus A320'},
             {src: '../../photos/civil/airlines/tap/tap (2).JPG', desc: 'TAP Airbus A320'},
-            {src: '../../photos/civil/airlines/tap/tap (3).JPG', desc: 'TAP Airbus A320'}
+            {src: '../../photos/civil/airlines/tap/tap (3).JPG', desc: 'TAP Airbus A320'},
+            {src: '../../photos/civil/airlines/tap/tap (4).JPG', desc: 'TAP Airbus A330'},
+            {src: '../../photos/civil/airlines/tap/tap (5).JPG', desc: 'TAP Airbus A330'},
+            {src: '../../photos/civil/airlines/tap/tap (6).JPG', desc: 'TAP Airbus A330'},
+            {src: '../../photos/civil/airlines/tap/tap (7).JPG', desc: 'TAP Airbus A330'},
+            {src: '../../photos/civil/airlines/tap/tap (8).JPG', desc: 'TAP Airbus A330'}
         ],
         'civil-commercial-transavia': [
             {src: '../../photos/civil/airlines/transavia/transavia (1).JPG', desc: 'Transavia Boeing 737'},
@@ -216,12 +241,16 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/transavia/transavia (28).JPG', desc: 'Transavia Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/transavia/transavia (29).JPG', desc: 'Transavia Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/transavia/transavia (30).JPG', desc: 'Transavia Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/transavia/transavia (31).JPG', desc: 'Transavia Beoing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (32).JPG', desc: 'Transavia Boeing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (33).JPG', desc: 'Transavia Boeing 737'}
         ],
         'civil-commercial-tui': [
             {src: '../../photos/civil/airlines/tui/tui (1).JPG', desc: 'TUI Boeing 737'},
             {src: '../../photos/civil/airlines/tui/tui (2).JPG', desc: 'TUI Boeing 737'},
             {src: '../../photos/civil/airlines/tui/tui (3).JPG', desc: 'TUI Boeing 737'},
-            {src: '../../photos/civil/airlines/tui/tui (4).JPG', desc: 'TUI Boeing 737'}
+            {src: '../../photos/civil/airlines/tui/tui (4).JPG', desc: 'TUI Boeing 737'},
+            {src: '../../photos/civil/airlines/tui/tui.JPG', desc: 'TUI Boeing 737'}
         ],
         'civil-commercial-vueling': [
             {src: '../../photos/civil/airlines/vueling/vueling (1).JPG', desc: 'Vueling Airbus A320'},
@@ -231,7 +260,8 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/vueling/vueling (5).JPG', desc: 'Vueling Airbus A320'},
             {src: '../../photos/civil/airlines/vueling/vueling (6).JPG', desc: 'Vueling Airbus A320'},
             {src: '../../photos/civil/airlines/vueling/vueling (7).JPG', desc: 'Vueling Airbus A320'},
-            {src: '../../photos/civil/airlines/vueling/vueling (8).JPG', desc: 'Vueling Airbus A320'}
+            {src: '../../photos/civil/airlines/vueling/vueling (8).JPG', desc: 'Vueling Airbus A320'},
+            {src: '../../photos/civil/airlines/vueling/vueling.JPG', desc: 'Vueling Airbus A320'}
         ],
         'civil-commercial-wizz': [
             {src: '../../photos/civil/airlines/wizz/wizz (1).JPG', desc: 'Wizz Airbus A321'},
@@ -292,15 +322,15 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (24).JPG', desc: 'American Airlines Airbus A319'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (25).JPG', desc: 'American Airlines Boeing 737'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (26).JPG', desc: 'American Airlines Boeing 737'},
-            {src: '../../photos/civil/airlines/american_airlines/american-airlines (27).JPG', desc: 'American Airlines Beoing 737'},
+            {src: '../../photos/civil/airlines/american_airlines/american-airlines (27).JPG', desc: 'American Airlines Boeing 737'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (28).JPG', desc: 'American Airlines Embraer E175LR'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (29).JPG', desc: 'American Airlines Embraer E175LR'},
-            {src: '../../photos/civil/airlines/american_airlines/american-airlines (30).JPG', desc: 'American Airlines Beoing 777'},
+            {src: '../../photos/civil/airlines/american_airlines/american-airlines (30).JPG', desc: 'American Airlines Boeing 777'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (31).JPG', desc: 'American Airlines Boeing 777'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (32).JPG', desc: 'American Airlines Boeing 777'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (33).JPG', desc: 'American Airlines Boeing 737'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (34).JPG', desc: 'American Airlines Boeing 737'},
-            {src: '../../photos/civil/airlines/american_airlines/american-airlines (35).JPG', desc: 'American Airlines Beoing 777'},
+            {src: '../../photos/civil/airlines/american_airlines/american-airlines (35).JPG', desc: 'American Airlines Boeing 777'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (36).JPG', desc: 'American Airlines Boeing 787'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (37).JPG', desc: 'American Airlines Boeing 787'},
             {src: '../../photos/civil/airlines/american_airlines/american-airlines (38).JPG', desc: 'American Airlines Boeing 787'},
@@ -370,6 +400,127 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/easternair_express/easternair-express (1).JPG', desc: 'Eastern Air Express Boeing 737'},
             {src: '../../photos/civil/airlines/easternair_express/easternair-express (2).JPG', desc: 'Eastern Air Express Boeing 737'}
         ],
+        'civil-commercial-fedex': [
+            {src: '../../photos/civil/airlines/fedex/fedex (1).JPG', desc: 'FedEx Boeing 767'},
+            {src: '../../photos/civil/airlines/fedex/fedex (2).JPG', desc: 'FedEx Boeing 767'},
+            {src: '../../photos/civil/airlines/fedex/fedex (3).JPG', desc: 'FedEx Boeing 767'},
+            {src: '../../photos/civil/airlines/fedex/fedex (4).JPG', desc: 'FedEx Boeing 767'}
+        ],
+        'civil-commercial-frontier': [
+            {src: '../../photos/civil/airlines/frontier_airlines/frontier-airlines (1).JPG', desc: 'Frontier Airlines Airbus A320'},
+            {src: '../../photos/civil/airlines/frontier_airlines/frontier-airlines (2).JPG', desc: 'Frontier Airlines Airbus A320'}
+        ],
+        'civil-commercial-ibc-airways': [
+            {src: '../../photos/civil/airlines/ibc_airways/ibc (1).JPG', desc: 'IBC Airways Saab 340A'},
+            {src: '../../photos/civil/airlines/ibc_airways/ibc (2).JPG', desc: 'IBC Airways Saab 340A'},
+            {src: '../../photos/civil/airlines/ibc_airways/ibc (3).JPG', desc: 'IBC Airways Saab 340A'},
+            {src: '../../photos/civil/airlines/ibc_airways/ibc (4).JPG', desc: 'IBC Airways Saab 340A'},
+            {src: '../../photos/civil/airlines/ibc_airways/ibc (5).JPG', desc: 'IBC Airways Saab 340A'}
+        ],
+        'civil-commercial-iberojet': [
+            {src: '../../photos/civil/airlines/iberojet/iberojet (1).JPG', desc: 'Iberojet Airbus A330'},
+            {src: '../../photos/civil/airlines/iberojet/iberojet (2).JPG', desc: 'Iberojet Airbus A330'},
+            {src: '../../photos/civil/airlines/iberojet/iberojet (3).JPG', desc: 'Iberojet Airbus A330'},
+            {src: '../../photos/civil/airlines/iberojet/iberojet (4).JPG', desc: 'Iberojet Airbus A330'}
+        ],
+        'civil-commercial-jetblue': [
+            {src: '../../photos/civil/airlines/jetblue/jetblue (1).JPG', desc: 'JetBlue Airbus A220'},
+            {src: '../../photos/civil/airlines/jetblue/jetblue (2).JPG', desc: 'JetBlue Airbus A220'},
+            {src: '../../photos/civil/airlines/jetblue/jetblue (3).JPG', desc: 'JetBlue Airbus A220'},
+            {src: '../../photos/civil/airlines/jetblue/jetblue (4).JPG', desc: 'JetBlue Airbus A220'},
+            {src: '../../photos/civil/airlines/jetblue/jetblue (5).JPG', desc: 'JetBlue Airbus A220'}
+        ],
+        'civil-commercial-latam': [
+            {src: '../../photos/civil/airlines/latam/latam (1).JPG', desc: 'LATAM Airbus A320'},
+            {src: '../../photos/civil/airlines/latam/latam (2).JPG', desc: 'LATAM Boeing 767'},
+            {src: '../../photos/civil/airlines/latam/latam (3).JPG', desc: 'LATAM Boeing 767'},
+            {src: '../../photos/civil/airlines/latam/latam (4).JPG', desc: 'LATAM Boeing 767'},
+            {src: '../../photos/civil/airlines/latam/latam (5).JPG', desc: 'LATAM Boeing 767'},
+            {src: '../../photos/civil/airlines/latam/latam (6).JPG', desc: 'LATAM Boeing 767'},
+            {src: '../../photos/civil/airlines/latam/latam (7).JPG', desc: 'LATAM Boeing 787'},
+            {src: '../../photos/civil/airlines/latam/latam (8).JPG', desc: 'LATAM Boeing 787'},
+            {src: '../../photos/civil/airlines/latam/latam (9).JPG', desc: 'LATAM Boeing 767'}
+        ],
+        'civil-commercial-lufthansa': [
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (1).JPG', desc: 'Lufthansa Airbus A350'},
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (2).JPG', desc: 'Lufthansa Airbus A350'},
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (3).JPG', desc: 'Lufthansa Airbus A350'},
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (4).JPG', desc: 'Lufthansa Airbus A350'},
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (5).JPG', desc: 'Lufthansa Airbus A350'}
+        ],
+        'civil-commercial-martinair': [
+            {src: '../../photos/civil/airlines/martinair_cargo/martinair-cargo.JPG', desc: 'Martinair Boeing 747'}
+        ],
+        'civil-commercial-nac': [
+            {src: '../../photos/civil/airlines/nac/nac (1).JPG', desc: 'Nordic Aviation Boeing 767'},
+            {src: '../../photos/civil/airlines/nac/nac (2).JPG', desc: 'Nordic Aviation Boeing 767'},
+            {src: '../../photos/civil/airlines/nac/nac (3).JPG', desc: 'Nordic Aviation Boeing 767'},
+            {src: '../../photos/civil/airlines/nac/nac (4).JPG', desc: 'Nordic Aviation Boeing 767'}
+        ],  
+        'civil-commercial-play': [
+            {src: '../../photos/civil/airlines/play/play (1).JPG', desc: 'Play Airbus A321 Neo'},
+            {src: '../../photos/civil/airlines/play/play (2).JPG', desc: 'Play Airbus A321 Neo'}
+        ],
+        'civil-commercial-rouge': [
+            {src: '../../photos/civil/airlines/rouge/rouge (1).JPG', desc: 'Air Canada Rouge Airbus A319'},
+            {src: '../../photos/civil/airlines/rouge/rouge (2).JPG', desc: 'Air Canada Rouge Airbus A319'}
+        ],
+        'civil-commercial-sas': [
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (1).JPG', desc: 'SAS Airbus A330'},
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (2).JPG', desc: 'SAS Airbus A330'},
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (3).JPG', desc: 'SAS Airbus A330'},
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (4).JPG', desc: 'SAS Airbus A330'},
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (5).JPG', desc: 'SAS Airbus A330'},
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (6).JPG', desc: 'SAS Airbus A330'},
+            {src: '../../photos/civil/airlines/scandinavian_airlines/sas (7).JPG', desc: 'SAS Airbus A330'}
+        ],
+        'civil-commercial-southwest': [
+            {src: '../../photos/civil/airlines/southwest/southwest (1).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (2).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (3).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (4).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (5).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (6).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (7).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (8).JPG', desc: 'Southwest Boeing 737'},
+            {src: '../../photos/civil/airlines/southwest/southwest (9).JPG', desc: 'Southwest Boeing 737'}
+        ],
+        'civil-commercial-spirit': [
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (1).JPG', desc: 'Spirit Airlines Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (2).JPG', desc: 'Spirit Airlines Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (3).JPG', desc: 'Spirit Airlines Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (4).JPG', desc: 'Spirit Airlines Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (5).JPG', desc: 'Spirit Airlines Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (6).JPG', desc: 'Spirit Airlines Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/spirit_airlines/spirit-airlines (7).JPG', desc: 'Spirit Airlines Airbus A320 Neo'}
+        ],
+        'civil-commercial-swiss': [
+            {src: '../../photos/civil/airlines/swiss/swiss (1).JPG', desc: 'Swiss Boeing 777'},
+            {src: '../../photos/civil/airlines/swiss/swiss (2).JPG', desc: 'Swiss Boeing 777'},
+            {src: '../../photos/civil/airlines/swiss/swiss (3).JPG', desc: 'Swiss Boeing 777'},
+            {src: '../../photos/civil/airlines/swiss/swiss (4).JPG', desc: 'Swiss Boeing 777'},
+            {src: '../../photos/civil/airlines/swiss/swiss (5).JPG', desc: 'Swiss Boeing 777'},
+            {src: '../../photos/civil/airlines/swiss/swiss (6).JPG', desc: 'Swiss Boeing 777'},
+            {src: '../../photos/civil/airlines/swiss/swiss (7).JPG', desc: 'Swiss Boeing 777'}
+        ],
+        'civil-commercial-united-airlines': [
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (1).JPG', desc: 'United Airlines Boeing 737'},
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (2).JPG', desc: 'United Airlines Boeing 737'},
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (3).JPG', desc: 'United Airlines Boeing 737'},
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (4).JPG', desc: 'United Airlines Boeing 737'},
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (5).JPG', desc: 'United Airlines Boeing 757'},
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (6).JPG', desc: 'United Airlines Boeing 737'},
+            {src: '../../photos/civil/airlines/united_airlines/united-airlines (7).JPG', desc: 'United Airlines Boeing 757'}
+        ],
+        'civil-commercial-viva-aerobus': [
+            {src: '../../photos/civil/airlines/viva_aerobus/viva-aerobus (1).JPG', desc: 'Viva Aerobus Airbus A320'},
+            {src: '../../photos/civil/airlines/viva_aerobus/viva-aerobus (2).JPG', desc: 'Viva Aerobus Airbus A320'}
+        ],
+        'civil-commercial-volaris': [
+            {src: '../../photos/civil/airlines/volaris/volaris (1).JPG', desc: 'Volaris Airbus A321'},
+            {src: '../../photos/civil/airlines/volaris/volaris (2).JPG', desc: 'Volaris Airbus A321'},
+            {src: '../../photos/civil/airlines/volaris/volaris (3).JPG', desc: 'Volaris Airbus A321'}
+        ],
         'general-planes': [
             {src: '../../photos/civil/general/general-p (1).JPG', desc: 'Cessna C172 Skyhawk'},
             {src: '../../photos/civil/general/general-p (2).JPG', desc: 'Beechcraft BE20'},
@@ -384,11 +535,33 @@ function showGallery(category) {
             {src: '../../photos/civil/general/general-p (11).JPG', desc: 'Cessna C172 Skyhawk'},
             {src: '../../photos/civil/general/general-p (12).JPG', desc: 'Pilatus PC-12 NG'},
             {src: '../../photos/civil/general/general-p (13).JPG', desc: 'Cessna C206 Stationair'},
+            {src: '../../photos/civil/general/general-p (14).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (15).JPG', desc: 'Piper PA-25 Pawnee'},
+            {src: '../../photos/civil/general/general-p (16).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (17).JPG', desc: 'Piper PA-25 Pawnee'},
+            {src: '../../photos/civil/general/general-p (18).JPG', desc: 'Cessna 182S Skylane'},
+            {src: '../../photos/civil/general/general-p (19).JPG', desc: 'Cessna 182S Skylane'},
+            {src: '../../photos/civil/general/general-p (20).JPG', desc: 'Cirrus SR22'},
+            {src: '../../photos/civil/general/general-p (21).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (22).JPG', desc: ''},
+            {src: '../../photos/civil/general/general-p (23).JPG', desc: ''},
+            {src: '../../photos/civil/general/general-p (24).JPG', desc: ''},
+            {src: '../../photos/civil/general/general-p (25).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (26).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (27).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (28).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (29).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (30).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (31).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-p (32).JPG', desc: 'Cessna C172 Skyhawk'},
+            {src: '../../photos/civil/general/general-s.JPG', desc: 'Flying ad'}
         ],
         'general-helico': [
-            {src: '../../photos/civil/general/general-h.JPG', desc: 'Robinson R44 Raven II'},
             {src: '../../photos/civil/general/general-h (1).JPG', desc: 'Robinson R22 Beta II'},
-            {src: '../../photos/civil/general/general-h (2).JPG', desc: 'Robinson R22 Beta II'}
+            {src: '../../photos/civil/general/general-h (2).JPG', desc: 'Robinson R22 Beta II'},
+            {src: '../../photos/civil/general/general-h (3).JPG', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/general/general-h (4).JPG', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/general/general-h (5).JPG', desc: 'Robinson R44 Raven II'}
         ],
         'private-planes': [
             {src: '../../photos/civil/private/prive-p (1).JPG', desc: 'Dassault Falcon 7X'},
@@ -416,10 +589,21 @@ function showGallery(category) {
             {src: '../../photos/civil/private/prive-p (24).JPG', desc: 'Dassault Falcon 2000EX'},
             {src: '../../photos/civil/private/prive-p (25).JPG', desc: 'Bombardier Global 5000'},
             {src: '../../photos/civil/private/prive-p (26).JPG', desc: 'Dassault Falcon 7X'},
-            {src: '../../photos/civil/private/prive-p (27).JPG', desc: 'Dasault Falcon 7X'}
+            {src: '../../photos/civil/private/prive-p (27).JPG', desc: 'Dasault Falcon 7X'},
+            {src: '../../photos/civil/private/prive-p (28).JPG', desc: 'Bombardier Global Express'},
+            {src: '../../photos/civil/private/prive-p (29).JPG', desc: 'Cessna Citation Latitude 680A'}
         ],
         'private-helico': [
-            {src: '../../photos/civil/private/prive-h.JPG', desc: 'Bell 206B'}
+            {src: '../../photos/civil/private/prive-h (1).JPG', desc: 'Sikorsky S-76 Spirit'},
+            {src: '../../photos/civil/private/prive-h (2).JPG', desc: 'Sikorsky S-76 Spirit'},
+            {src: '../../photos/civil/private/prive-h (3).JPG', desc: 'Bell 206B JetRanger'},
+            {src: '../../photos/civil/private/prive-h (4).JPG', desc: 'Bell 206B JetRanger'},
+            {src: '../../photos/civil/private/prive-h (5).JPG', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/private/prive-h (6).JPG', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/private/prive-h (7).JPG', desc: 'Bell 206B JetRanger'},
+            {src: '../../photos/civil/private/prive-h (8).JPG', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/private/prive-h (9).JPG', desc: 'Bell 206B JetRanger'}
+
         ],
         'marine-planes': [
             {src: '../../../photos/military/france/french_navy/marine-p.JPG', desc: 'Embraer EMB-121 Xingu'},
