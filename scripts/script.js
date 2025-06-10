@@ -21,7 +21,7 @@ function showGallery(category) {
     }
 
     photoGrid.innerHTML = '';
-    backbtn.style.display = 'block';
+    backbtn.style.display = 'inline-block';
 
     const photos = {
         'civil-commercial-airalgerie': [
