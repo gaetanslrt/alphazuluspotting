@@ -79,7 +79,7 @@ body {
 }
 
 .category:hover {
-    transform: scale(1.02);
+    transform: scale(1.01);
     filter: brightness(1.15);
 }
 
@@ -174,7 +174,7 @@ body {
 
 .photo-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
 
@@ -195,7 +195,7 @@ body {
 }
 
 .photo-item:hover {
-    transform: scale(1.05);
+    transform: scale(1.03);
 }
 
 /* Fullscreen View */
@@ -273,6 +273,12 @@ footer p {
 
     .subcategory {
         height: 330px !important;
+    }
+
+    .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
     }
 
 }

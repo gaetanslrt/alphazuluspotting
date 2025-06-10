@@ -15,10 +15,10 @@ function showGallery(category) {
         categories.style.display = 'none';
     }
 
-    if (url.includes('military.html')) {
+    /*if (url.includes('military.html')) {
         const sub = document.getElementById('subsquares');
         sub.style.display = 'none';
-    }
+    }*/
 
     photoGrid.innerHTML = '';
     backbtn.style.display = 'inline-block';
