@@ -186,7 +186,7 @@ body {
 }
 
 .photo-item img {
-    filter: blur(0.4px);
+    filter: blur(0.7px);
     image-rendering: pixelated;    
     display: block;
     width: 100%;
@@ -279,6 +279,10 @@ footer p {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    }
+
+    .photo-item img {
+        filter: blur(0.9px);
     }
 
 }
