@@ -880,7 +880,7 @@ function showGallery(category) {
         const img = document.createElement('img');
         img.src = photo.src;
         img.alt = photo.desc;
-        img.loading = 'lazy'; // Activer le lazy loading
+        //img.loading = 'lazy'; // Activer le lazy loading
         img.style.width = '100%';
         img.style.height = '100%';
         img.style.objectFit = 'cover'; // Simuler l'effet de background-size: cover
