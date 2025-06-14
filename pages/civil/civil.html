@@ -17,10 +17,26 @@
             <a href="general.html" class="subcategory" style="background-image: url('../../photos/civil/general/general-p\ \(13\).jpeg')">
                 <span>General</span>
             </a>
-            <a href="private.html" class="subcategory" style="background-image: url('../../photos/civil/private/prive-p\ \(9\).jpeg')">
+            <a href="private.html" class="subcategory" style="background-image: url('../../photos/civil/private/private-p\ \(9\).jpeg')">
                 <span>Private</span>
+            </a>
+            <a onclick="showGallery('governmental-services')" class="subcategory" style="background-image: url('../../photos/civil/governmental_services/gov-services\ \(6\).jpeg')">
+                <span>Governmental Services</span>
             </a>
         </div>
     </section>
+
+    <section class="gallery" id="gallery">
+        <a href="civil.html" class="back-link" id="back-compagnies">Back to Civil</a>
+        <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <div class="fullscreen" id="fullscreen" onclick="closeFullscreen()">
+        <span class="close-btn" onclick="closeFullscreen()">×</span>
+        <img id="fullscreen-img" src="">
+        <p id="fullscreen-desc"></p>
+    </div>
+
+    <script src="../../scripts/script.js"></script>
 </body>
 </html>

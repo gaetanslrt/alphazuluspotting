@@ -15,11 +15,6 @@ function showGallery(category) {
         categories.style.display = 'none';
     }
 
-    /*if (url.includes('military.html')) {
-        const sub = document.getElementById('subsquares');
-        sub.style.display = 'none';
-    }*/
-
     photoGrid.innerHTML = '';
     backbtn.style.display = 'inline-block';
 
@@ -170,7 +165,8 @@ function showGallery(category) {
         'civil-commercial-ita': [
             {src: '../../photos/civil/airlines/ita/ita (1).jpeg', desc: 'ITA Airbus A220'},
             {src: '../../photos/civil/airlines/ita/ita (2).jpeg', desc: 'ITA Airbus A220'},
-            {src: '../../photos/civil/airlines/ita/ita (3).jpeg', desc: 'ITA Airbus A220'}
+            {src: '../../photos/civil/airlines/ita/ita (3).jpeg', desc: 'ITA Airbus A220'},
+            {src: '../../photos/civil/airlines/ita/ita (4).jpeg', desc: 'ITA Airbus A350'}
         ],
         'civil-commercial-luxair': [
             {src: '../../photos/civil/airlines/luxair/luxair (1).jpeg', desc: 'Luxair ATR 72'},
@@ -189,7 +185,8 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/pegasus/pegasus (4).jpeg', desc: 'Pegasus Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/pegasus/pegasus (5).jpeg', desc: 'Pegasus Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/pegasus/pegasus (6).jpeg', desc: 'Pegasus Airbus A320 Neo'},
-            {src: '../../photos/civil/airlines/pegasus/pegasus (7).jpeg', desc: 'Pegasus Airbus A320 Neo'}
+            {src: '../../photos/civil/airlines/pegasus/pegasus (7).jpeg', desc: 'Pegasus Airbus A320 Neo'},
+            {src: '../../photos/civil/airlines/pegasus/pegasus (8).jpeg', desc: 'Pegasus Airbus A320 Neo'}
         ],
         'civil-commercial-royalairmaroc': [
             {src: '../../photos/civil/airlines/royal_air_maroc/royal_air_maroc (1).jpeg', desc: 'Royal Air Maroc Boeing 787'},
@@ -243,7 +240,12 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/transavia/transavia (30).jpeg', desc: 'Transavia Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/transavia/transavia (31).jpeg', desc: 'Transavia Beoing 737'},
             {src: '../../photos/civil/airlines/transavia/transavia (32).jpeg', desc: 'Transavia Boeing 737'},
-            {src: '../../photos/civil/airlines/transavia/transavia (33).jpeg', desc: 'Transavia Boeing 737'}
+            {src: '../../photos/civil/airlines/transavia/transavia (33).jpeg', desc: 'Transavia Boeing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (34).jpeg', desc: 'Transavia Boeing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (35).jpeg', desc: 'Transavia Boeing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (36).jpeg', desc: 'Transavia Boeing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (37).jpeg', desc: 'Transavia Boeing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (38).jpeg', desc: 'Transavia Boeing 737'}
         ],
         'civil-commercial-tui': [
             {src: '../../photos/civil/airlines/tui/tui (1).jpeg', desc: 'TUI Boeing 737'},
@@ -446,7 +448,9 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/lufthansa/lufthansa (2).jpeg', desc: 'Lufthansa Airbus A350'},
             {src: '../../photos/civil/airlines/lufthansa/lufthansa (3).jpeg', desc: 'Lufthansa Airbus A350'},
             {src: '../../photos/civil/airlines/lufthansa/lufthansa (4).jpeg', desc: 'Lufthansa Airbus A350'},
-            {src: '../../photos/civil/airlines/lufthansa/lufthansa (5).jpeg', desc: 'Lufthansa Airbus A350'}
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (5).jpeg', desc: 'Lufthansa Airbus A350'},
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (6).jpeg', desc: 'Lufthansa Airbus A380'},
+            {src: '../../photos/civil/airlines/lufthansa/lufthansa (7).jpeg', desc: 'Lufthansa Airbus A380'}
         ],
         'civil-commercial-martinair': [
             {src: '../../photos/civil/airlines/martinair_cargo/martinair-cargo.jpeg', desc: 'Martinair Boeing 747'}
@@ -554,7 +558,8 @@ function showGallery(category) {
             {src: '../../photos/civil/general/general-p (30).jpeg', desc: 'Cessna C172 Skyhawk'},
             {src: '../../photos/civil/general/general-p (31).jpeg', desc: 'Cessna C172 Skyhawk'},
             {src: '../../photos/civil/general/general-p (32).jpeg', desc: 'Cessna C172 Skyhawk'},
-            {src: '../../photos/civil/general/general-s.jpeg', desc: 'Flying ad'}
+            {src: '../../photos/civil/general/general-s.jpeg', desc: 'Flying ad'},
+            {src: '../../photos/civil/general/general-p (33).jpeg', desc: 'Cessna C310R'}
         ],
         'general-helico': [
             {src: '../../photos/civil/general/general-h (1).jpeg', desc: 'Robinson R22 Beta II'},
@@ -564,47 +569,86 @@ function showGallery(category) {
             {src: '../../photos/civil/general/general-h (5).jpeg', desc: 'Robinson R44 Raven II'}
         ],
         'private-planes': [
-            {src: '../../photos/civil/private/prive-p (1).jpeg', desc: 'Dassault Falcon 7X'},
-            {src: '../../photos/civil/private/prive-p (2).jpeg', desc: 'Gulfstream G650'},
-            {src: '../../photos/civil/private/prive-p (3).jpeg', desc: 'Dasault Falcon 900'},
-            {src: '../../photos/civil/private/prive-p (4).jpeg', desc: 'Embraer Legacy 650'},
-            {src: '../../photos/civil/private/prive-p (5).jpeg', desc: 'Cessna 525B Citation CJ3+'},
-            {src: '../../photos/civil/private/prive-p (6).jpeg', desc: 'Cessna 560XL Citation XLS'},
-            {src: '../../photos/civil/private/prive-p (7).jpeg', desc: 'Cessna 510 Citation Mustang'},
-            {src: '../../photos/civil/private/prive-p (8).jpeg', desc: 'Dasault Falcon 7X'},
-            {src: '../../photos/civil/private/prive-p (9).jpeg', desc: 'Dasault Falcon 7X'},
-            {src: '../../photos/civil/private/prive-p (10).jpeg', desc: 'Cessna Citation Latitude 680A'},
-            {src: '../../photos/civil/private/prive-p (11).jpeg', desc: 'Bombardier Global 6000'},
-            {src: '../../photos/civil/private/prive-p (12).jpeg', desc: 'Embraer Legacy 650'},
-            {src: '../../photos/civil/private/prive-p (13).jpeg', desc: 'Gulfstream G650'},
-            {src: '../../photos/civil/private/prive-p (14).jpeg', desc: 'Pilatus PC-24 Super Versatile Jet'},
-            {src: '../../photos/civil/private/prive-p (15).jpeg', desc: 'Cessna 510 Citation Mustang'},
-            {src: '../../photos/civil/private/prive-p (16).jpeg', desc: 'Cessna 525A Citation CJ2+'},
-            {src: '../../photos/civil/private/prive-p (17).jpeg', desc: 'Cessna 525A Citation CJ2+'},
-            {src: '../../photos/civil/private/prive-p (18).jpeg', desc: 'Cessna 680A Citation Latitude'},
-            {src: '../../photos/civil/private/prive-p (19).jpeg', desc: 'Bombardier Global 7500'},
-            {src: '../../photos/civil/private/prive-p (21).jpeg', desc: 'Dasault Falcon 2000LX'},
-            {src: '../../photos/civil/private/prive-p (22).jpeg', desc: 'Dasault Falcon 2000EX'},
-            {src: '../../photos/civil/private/prive-p (23).jpeg', desc: 'Dassault Falcon 2000EX'},
-            {src: '../../photos/civil/private/prive-p (24).jpeg', desc: 'Dassault Falcon 2000EX'},
-            {src: '../../photos/civil/private/prive-p (25).jpeg', desc: 'Bombardier Global 5000'},
-            {src: '../../photos/civil/private/prive-p (26).jpeg', desc: 'Dassault Falcon 7X'},
-            {src: '../../photos/civil/private/prive-p (27).jpeg', desc: 'Dasault Falcon 7X'},
-            {src: '../../photos/civil/private/prive-p (28).jpeg', desc: 'Bombardier Global Express'},
-            {src: '../../photos/civil/private/prive-p (29).jpeg', desc: 'Cessna Citation Latitude 680A'}
+            {src: '../../photos/civil/private/private-p (1).jpeg', desc: 'Dassault Falcon 7X'},
+            {src: '../../photos/civil/private/private-p (2).jpeg', desc: 'Gulfstream G650'},
+            {src: '../../photos/civil/private/private-p (3).jpeg', desc: 'Dasault Falcon 900'},
+            {src: '../../photos/civil/private/private-p (4).jpeg', desc: 'Embraer Legacy 650'},
+            {src: '../../photos/civil/private/private-p (5).jpeg', desc: 'Cessna 525B Citation CJ3+'},
+            {src: '../../photos/civil/private/private-p (6).jpeg', desc: 'Cessna 560XL Citation XLS'},
+            {src: '../../photos/civil/private/private-p (7).jpeg', desc: 'Cessna 510 Citation Mustang'},
+            {src: '../../photos/civil/private/private-p (8).jpeg', desc: 'Dasault Falcon 7X'},
+            {src: '../../photos/civil/private/private-p (9).jpeg', desc: 'Dasault Falcon 7X'},
+            {src: '../../photos/civil/private/private-p (10).jpeg', desc: 'Cessna Citation Latitude 680A'},
+            {src: '../../photos/civil/private/private-p (11).jpeg', desc: 'Bombardier Global 6000'},
+            {src: '../../photos/civil/private/private-p (12).jpeg', desc: 'Embraer Legacy 650'},
+            {src: '../../photos/civil/private/private-p (13).jpeg', desc: 'Gulfstream G650'},
+            {src: '../../photos/civil/private/private-p (14).jpeg', desc: 'Pilatus PC-24 Super Versatile Jet'},
+            {src: '../../photos/civil/private/private-p (15).jpeg', desc: 'Cessna 510 Citation Mustang'},
+            {src: '../../photos/civil/private/private-p (16).jpeg', desc: 'Cessna 525A Citation CJ2+'},
+            {src: '../../photos/civil/private/private-p (17).jpeg', desc: 'Cessna 525A Citation CJ2+'},
+            {src: '../../photos/civil/private/private-p (18).jpeg', desc: 'Cessna 680A Citation Latitude'},
+            {src: '../../photos/civil/private/private-p (19).jpeg', desc: 'Bombardier Global 7500'},
+            {src: '../../photos/civil/private/private-p (21).jpeg', desc: 'Dasault Falcon 2000LX'},
+            {src: '../../photos/civil/private/private-p (22).jpeg', desc: 'Dasault Falcon 2000EX'},
+            {src: '../../photos/civil/private/private-p (23).jpeg', desc: 'Dassault Falcon 2000EX'},
+            {src: '../../photos/civil/private/private-p (24).jpeg', desc: 'Dassault Falcon 2000EX'},
+            {src: '../../photos/civil/private/private-p (25).jpeg', desc: 'Bombardier Global 5000'},
+            {src: '../../photos/civil/private/private-p (26).jpeg', desc: 'Dassault Falcon 7X'},
+            {src: '../../photos/civil/private/private-p (27).jpeg', desc: 'Dasault Falcon 7X'},
+            {src: '../../photos/civil/private/private-p (28).jpeg', desc: 'Bombardier Global Express'},
+            {src: '../../photos/civil/private/private-p (29).jpeg', desc: 'Cessna Citation Latitude 680A'},
+            {src: '../../photos/civil/private/private-p (30).jpeg', desc: 'Pilatus PC-24 Super Versatile Jet'},
+            {src: '../../photos/civil/private/private-p (31).jpeg', desc: 'Bombardier Challenger 605'},
+            {src: '../../photos/civil/private/private-p (32).jpeg', desc: 'Bombardier Challenger 605'},
+            {src: '../../photos/civil/private/private-p (33).jpeg', desc: 'Bombardier Challenger 605'},
+            {src: '../../photos/civil/private/private-p (34).jpeg', desc: 'Dassault Falcon 2000LX'},
+            {src: '../../photos/civil/private/private-p (35).jpeg', desc: 'Embraer Phenom 300'},
+            {src: '../../photos/civil/private/private-p (36).jpeg', desc: 'Cessna Citation XLS'},
+            {src: '../../photos/civil/private/private-p (37).jpeg', desc: 'Cessna Citation XLS'},
+            {src: '../../photos/civil/private/private-p (38).jpeg', desc: 'Pilatus PC-24 Super Versatile Jet'},
+            {src: '../../photos/civil/private/private-p (39).jpeg', desc: 'Beech C90GTx King Air'},
+            {src: '../../photos/civil/private/private-p (40).jpeg', desc: 'Beech C90GTx King Air'},
+            {src: '../../photos/civil/private/private-p (41).jpeg', desc: 'Bombardier Global 6000'},
+            {src: '../../photos/civil/private/private-p (42).jpeg', desc: 'Bombardier Global 6000'},
+            {src: '../../photos/civil/private/private-p (43).jpeg', desc: 'Bombardier Global 6000'},
+            {src: '../../photos/civil/private/private-p (44).jpeg', desc: 'Hawker 750'},
+            {src: '../../photos/civil/private/private-p (45).jpeg', desc: 'Pilatus PC-12 NG'},
+            {src: '../../photos/civil/private/private-p (46).jpeg', desc: 'Cessna Citation Latitude'},
+            {src: '../../photos/civil/private/private-p (47).jpeg', desc: 'Pilatus PC-12 NG'},
+            {src: '../../photos/civil/private/private-p (48).jpeg', desc: 'Pilatus PC-12 NG'},
+            {src: '../../photos/civil/private/private-p (49).jpeg', desc: 'Pilatus PC-12 NG'},
+            {src: '../../photos/civil/private/private-p (50).jpeg', desc: 'Pilatus PC-12 NG'},
+            {src: '../../photos/civil/private/private-p (51).jpeg', desc: 'Cessna Citation CJ4'},
+            {src: '../../photos/civil/private/private-p (52).jpeg', desc: 'Cessna Citation CJ4'},
+            {src: '../../photos/civil/private/private-p (53).jpeg', desc: 'Pilatus PC-24 Super Versatile Jet'},
+            {src: '../../photos/civil/private/private-p (54).jpeg', desc: 'Dassault Falcon 20'},
+            {src: '../../photos/civil/private/private-p (55).jpeg', desc: 'Dassault Falcon 20'},
+            {src: '../../photos/civil/private/private-p (56).jpeg', desc: 'Dassault Falcon 20'},
+            {src: '../../photos/civil/private/private-p (57).jpeg', desc: 'Dassault Falcon 20'},
+            {src: '../../photos/civil/private/private-p (58).jpeg', desc: 'AirX Charter Beoing 737'},
+            {src: '../../photos/civil/private/private-p (59).jpeg', desc: 'AirX Charter Boeing 737'},
+            {src: '../../photos/civil/private/private-p (60).jpeg', desc: 'AirX Charter Boeing 737'}
         ],
         'private-helico': [
-            {src: '../../photos/civil/private/prive-h (1).jpeg', desc: 'Sikorsky S-76 Spirit'},
-            {src: '../../photos/civil/private/prive-h (2).jpeg', desc: 'Sikorsky S-76 Spirit'},
-            {src: '../../photos/civil/private/prive-h (3).jpeg', desc: 'Bell 206B JetRanger'},
-            {src: '../../photos/civil/private/prive-h (4).jpeg', desc: 'Bell 206B JetRanger'},
-            {src: '../../photos/civil/private/prive-h (5).jpeg', desc: 'Robinson R44 Raven II'},
-            {src: '../../photos/civil/private/prive-h (6).jpeg', desc: 'Robinson R44 Raven II'},
-            {src: '../../photos/civil/private/prive-h (7).jpeg', desc: 'Bell 206B JetRanger'},
-            {src: '../../photos/civil/private/prive-h (8).jpeg', desc: 'Robinson R44 Raven II'},
-            {src: '../../photos/civil/private/prive-h (9).jpeg', desc: 'Bell 206B JetRanger'}
-
+            {src: '../../photos/civil/private/private-h (1).jpeg', desc: 'Sikorsky S-76 Spirit'},
+            {src: '../../photos/civil/private/private-h (2).jpeg', desc: 'Sikorsky S-76 Spirit'},
+            {src: '../../photos/civil/private/private-h (3).jpeg', desc: 'Bell 206B JetRanger'},
+            {src: '../../photos/civil/private/private-h (4).jpeg', desc: 'Bell 206B JetRanger'},
+            {src: '../../photos/civil/private/private-h (5).jpeg', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/private/private-h (6).jpeg', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/private/private-h (7).jpeg', desc: 'Bell 206B JetRanger'},
+            {src: '../../photos/civil/private/private-h (8).jpeg', desc: 'Robinson R44 Raven II'},
+            {src: '../../photos/civil/private/private-h (9).jpeg', desc: 'Bell 206B JetRanger'}
         ],
+        'governmental-services': [
+            {src: '../../photos/civil/governmental_services/gov-services (1).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
+            {src: '../../photos/civil/governmental_services/gov-services (2).jpeg', desc: 'Beechcraft B200 King Air'},
+            {src: '../../photos/civil/governmental_services/gov-services (3).jpeg', desc: 'Beechcraft B200 King Air'},
+            {src: '../../photos/civil/governmental_services/gov-services (4).jpeg', desc: 'Beechcraft B200 King Air'},
+            {src: '../../photos/civil/governmental_services/gov-services (5).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
+            {src: '../../photos/civil/governmental_services/gov-services (6).jpeg', desc: 'De Havilland DHC-8 Dash 8'}
+        ],
+
         'marine-planes': [
             {src: '../../../photos/military/france/french_navy/marine-p.jpeg', desc: 'Embraer EMB-121 Xingu'},
             {src: '../../../photos/military/france/french_navy/marine-p (1).jpeg', desc: 'Dassault Falcon 10'},
