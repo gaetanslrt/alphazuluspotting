@@ -238,7 +238,7 @@ function showGallery(category) {
             {src: '../../photos/civil/airlines/transavia/transavia (28).jpeg', desc: 'Transavia Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/transavia/transavia (29).jpeg', desc: 'Transavia Airbus A320 Neo'},
             {src: '../../photos/civil/airlines/transavia/transavia (30).jpeg', desc: 'Transavia Airbus A320 Neo'},
-            {src: '../../photos/civil/airlines/transavia/transavia (31).jpeg', desc: 'Transavia Beoing 737'},
+            {src: '../../photos/civil/airlines/transavia/transavia (31).jpeg', desc: 'Transavia Boeing 737'},
             {src: '../../photos/civil/airlines/transavia/transavia (32).jpeg', desc: 'Transavia Boeing 737'},
             {src: '../../photos/civil/airlines/transavia/transavia (33).jpeg', desc: 'Transavia Boeing 737'},
             {src: '../../photos/civil/airlines/transavia/transavia (34).jpeg', desc: 'Transavia Boeing 737'},
@@ -625,7 +625,7 @@ function showGallery(category) {
             {src: '../../photos/civil/private/private-p (55).jpeg', desc: 'Dassault Falcon 20'},
             {src: '../../photos/civil/private/private-p (56).jpeg', desc: 'Dassault Falcon 20'},
             {src: '../../photos/civil/private/private-p (57).jpeg', desc: 'Dassault Falcon 20'},
-            {src: '../../photos/civil/private/private-p (58).jpeg', desc: 'AirX Charter Beoing 737'},
+            {src: '../../photos/civil/private/private-p (58).jpeg', desc: 'AirX Charter Boeing 737'},
             {src: '../../photos/civil/private/private-p (59).jpeg', desc: 'AirX Charter Boeing 737'},
             {src: '../../photos/civil/private/private-p (60).jpeg', desc: 'AirX Charter Boeing 737'}
         ],
