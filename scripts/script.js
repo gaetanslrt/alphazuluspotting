@@ -641,12 +641,14 @@ function showGallery(category) {
             {src: '../../photos/civil/private/private-h (9).jpeg', desc: 'Bell 206B JetRanger'}
         ],
         'governmental-services': [
-            {src: '../../photos/civil/governmental_services/gov-services (1).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
-            {src: '../../photos/civil/governmental_services/gov-services (2).jpeg', desc: 'Beechcraft B200 King Air'},
-            {src: '../../photos/civil/governmental_services/gov-services (3).jpeg', desc: 'Beechcraft B200 King Air'},
-            {src: '../../photos/civil/governmental_services/gov-services (4).jpeg', desc: 'Beechcraft B200 King Air'},
-            {src: '../../photos/civil/governmental_services/gov-services (5).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
-            {src: '../../photos/civil/governmental_services/gov-services (6).jpeg', desc: 'De Havilland DHC-8 Dash 8'}
+            {src: '../../photos/civil/governmental_services/gov-services-p (1).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (2).jpeg', desc: 'Beechcraft B200 King Air'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (3).jpeg', desc: 'Beechcraft B200 King Air'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (4).jpeg', desc: 'Beechcraft B200 King Air'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (5).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (6).jpeg', desc: 'De Havilland DHC-8 Dash 8'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (7).jpeg', desc: 'Beechcraft Super King Air 350'},
+            {src: '../../photos/civil/governmental_services/gov-services-p (8).jpeg', desc: 'Beechcraft Super King Air 350'}
         ],
 
         'marine-planes': [
@@ -796,8 +798,6 @@ function showGallery(category) {
             { src: "../../../photos/military/france/french_air_space_force/aae-p (29).jpeg", desc: 'Dassault Breguet / Dornier Alpha Jet (Patrouille de France)' },
             { src: "../../../photos/military/france/french_air_space_force/aae-p (30).jpeg", desc: 'Dassault Breguet / Dornier Alpha Jet (Patrouille de France)' },
             { src: "../../../photos/military/france/french_air_space_force/aae-p (31).jpeg", desc: 'Dassault Breguet / Dornier Alpha Jet (Patrouille de France)' },
-            { src: "../../../photos/military/france/french_air_space_force/aae-p (32).jpeg", desc: 'Beechcraft Super King Air 350' },
-            { src: "../../../photos/military/france/french_air_space_force/aae-p (33).jpeg", desc: 'Beechcraft Super King Air 350' },
             { src: "../../../photos/military/france/french_air_space_force/aae-p (34).jpeg", desc: 'Dassault Breguet / Dornier Alpha Jet (Patrouille de France)' },
             { src: "../../../photos/military/france/french_air_space_force/aae-p (35).jpeg", desc: 'Dassault Breguet / Dornier Alpha Jet (Patrouille de France)' },
             { src: "../../../photos/military/france/french_air_space_force/aae-p (36).jpeg", desc: 'Dassault Breguet / Dornier Alpha Jet (Patrouille de France)' },
